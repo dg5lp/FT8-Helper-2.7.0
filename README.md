@@ -18,7 +18,8 @@ new in v2.6.1-8
     The wanted DX station is to enter into the "Prompt Call" list. It works similar to
     "Only-Wanted" but it starts in split-mode. The user must search and set a free frequency manually.
     After reception of the first CQ or RR73/73 of the wanted DX station, the Helper calls the station
-    contionusly and does not stops if the station answers to another station. This is the so-called "Pitbull QSO" mode. During the QSO attempt all other stations are ignored.
+    contionusly and does not stops if the station answers to another station. This is the so-called
+    "Pitbull QSO" mode. During the QSO attempt all other stations are ignored.
     
 New field, QSO-with: shows the callsign of the current QSO
 
@@ -47,7 +48,8 @@ New in v2.6.1-3
 
 New in v2.6.1-2 - v2.6.1-1 was a test version, was not publishded
 
-    The FT8-Helper and JTDX-Helper share the most part of the source code. The version numbering of the software has been changed. The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper.
+    The FT8-Helper and JTDX-Helper share the most part of the source code. The version numbering of the software has been changed.
+    The first part of the number identifies the matching WSJTX/JTDX version, die number following the “-“ shows the actual version of the Helper.
 
     Selection of CQ, S/P, XCHG and MIX mode by menas of selection menu instead of dedicated Start-SP and Start-CQ buttons
 
