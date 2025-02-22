@@ -6,6 +6,7 @@ Be sure using the original WSJTX. There are some modified clones in circulation 
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FT8-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encrypted. Upload and check the software to virustotal.com. You can trust the software. Be sure using the original WSJTX! There are clones in circulation using the same version-number as the origianl WSJTX. It will not work!
 
 new in v2.7.0-0
+
     Requires the GA-Version WSJT-X 2.7.0.  No other changes
 
 new in v2.6.1-8
